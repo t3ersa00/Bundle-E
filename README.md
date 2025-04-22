@@ -1,4 +1,4 @@
-# Tervetuloa!:+1:
+# Tervetuloa! 😃
 
 **Tämä on koulutehtäväni** kurssille pivlipalvelut, tässä toteutan tehtävää <ins> Bundle E. </ins>
 
