@@ -2,7 +2,7 @@
 
 **Tämä on koulutehtäväni** kurssille pivlipalvelut, tässä toteutan tehtävää <ins> Bundle E. </ins>
 
-Linkki tälle sivulle: https://github.com/t3ersa00/Bundle-E
+Linkki tälle sivulle:  (https://t3ersa00.github.io/Bundle-E/)
 
 - _Website must be public_
 - _Use at least handful of Github flavour markdown features to format the web page_
