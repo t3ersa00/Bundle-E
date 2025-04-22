@@ -13,3 +13,5 @@ However, just a static website is also fine:**
 - _Write the Github page address to the learning diary so that your peer reviewers can verify it easily_
 - _Keep the pages available until you have received your course grade_
 
+
+Käy muuten huvikses testaamassa pyssypeliä [täällä](https://kripken.github.io/BananaBread/cube2/bb.html) 🔫
