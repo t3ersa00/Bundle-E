@@ -4,7 +4,7 @@
 
 Linkki tälle sivulle: https://github.com/t3ersa00/Bundle-E
 
-
+![Väripaletti](https://via.placeholder.com/150/FF5733/FFFFFF?text=HEX+%23FF5733)
 - _Website must be public_
 - _Use at least handful of Github flavour markdown features to format the web page_
 - _Document your work progress with few screenshots to the learning diary_
