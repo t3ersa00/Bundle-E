@@ -1,6 +1,6 @@
 # Tervetuloa! 😃
 
-**Tämä on koulutehtäväni** kurssille pivlipalvelut, tässä toteutan tehtävää <ins> Bundle E. </ins>
+**Tämä on koulutehtäväni** kurssille pilvipalvelut, tässä toteutan tehtävää <ins> Bundle E. </ins>
 
 [Linkki tälle sivulle](https://t3ersa00.github.io/Bundle-E/)
 
