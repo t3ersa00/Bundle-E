@@ -2,7 +2,7 @@
 
 **Tämä on koulutehtäväni** kurssille pivlipalvelut, tässä toteutan tehtävää <ins> Bundle E. </ins>
 
-[Linkki tälle sivulle:] (https://t3ersa00.github.io/Bundle-E/)
+[Linkki tälle sivulle:](https://t3ersa00.github.io/Bundle-E/)
 
 **Use Github Pages and use markdown language syntax (not HTML) to create a static website. Maybe you can host some WASM application there such as x86 emulation, Qt for WASM, or just Awesome WebAssembly Applications. 
 However, just a static website is also fine:**
